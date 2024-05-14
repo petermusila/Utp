@@ -1,4 +1,3 @@
-
 <HTML>
 <head>
 <title>UTPCASH</title>
@@ -68,7 +67,7 @@ img
 </head><BR><BR><BR>
 </DIV>
 <body > 
-<img src="../UTP/jpg/04.jpg"style="float:right"width="40%"height="50%"/>
+<img src="../My web.html/ka.jpg"style="float:right"width="40%"height="50%"/>
 <h2>What is UTPCASH</H2>
 <p>
 UTPCASH is the most flexible personal loan platform on the market, giving Kenyans more control over their finances with its unique features.<br>
@@ -93,7 +92,7 @@ We are focused on making your dreams come true..<br>
 
 Money in your account even in a few minutes after registration!.<br>
 </p>
-<img src="../UTP/jpg/06.jpg""width="70%"height="70%"/><br>
+<img src="../My web.html/jpg/06.jpg""width="70%"height="70%"/><br>
 <header>Application</header>
 <Table border="3"style="float:left" bgcolorcellpadding="4" cellspacing="3">
 <Tr>
@@ -158,6 +157,6 @@ We are honoured that you have put your trust in us, and are excited for new chal
 
 <center><A href="https:\\www.whatsapp.com">Whatsapp</a></centeR>
 <center>
-<A HREF="jj.html">HOME</A>
-<A HREF="form.HTML">RATES</A>
-<A HREF="utp.html">APPLICATIONS</A><br/></center>
+<A HREF="jj.html">Page 1</A>
+<A HREF="form.HTML">Page 2</A>
+<A HREF="utp.html">Page 3</A><br/></center>
